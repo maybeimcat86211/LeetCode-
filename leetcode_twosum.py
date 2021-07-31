@@ -43,12 +43,12 @@ for index,value in enumerate(nums):
 print(hashmap)
 
 '''
-fuck = {}
+test = {}
 abc = ["a","b","c","d","e"]
 for index,value in enumerate(abc):
     #print(value)
     #前面是dict的key , 後面是是dict的value
-    fuck[index] = value
+    test[index] = value
     
-print(fuck)
+print(test)
 '''
